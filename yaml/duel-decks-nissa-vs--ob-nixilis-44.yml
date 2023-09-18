@@ -1,0 +1,112 @@
+---
+object: card
+id: d0d6fabf-ffef-4272-8285-c671f6d777f0
+oracle_id: ef75be00-1a88-47a1-a1ae-fe2c9881a798
+multiverse_ids:
+- 417467
+tcgplayer_id: 122223
+cardmarket_id: 292419
+name: Desecration Demon
+lang: en
+released_at: '2016-09-02'
+uri: https://api.scryfall.com/cards/d0d6fabf-ffef-4272-8285-c671f6d777f0
+scryfall_uri: https://scryfall.com/card/ddr/44/desecration-demon?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/0/d0d6fabf-ffef-4272-8285-c671f6d777f0.jpg?1562230162
+  normal: https://cards.scryfall.io/normal/front/d/0/d0d6fabf-ffef-4272-8285-c671f6d777f0.jpg?1562230162
+  large: https://cards.scryfall.io/large/front/d/0/d0d6fabf-ffef-4272-8285-c671f6d777f0.jpg?1562230162
+  png: https://cards.scryfall.io/png/front/d/0/d0d6fabf-ffef-4272-8285-c671f6d777f0.png?1562230162
+  art_crop: https://cards.scryfall.io/art_crop/front/d/0/d0d6fabf-ffef-4272-8285-c671f6d777f0.jpg?1562230162
+  border_crop: https://cards.scryfall.io/border_crop/front/d/0/d0d6fabf-ffef-4272-8285-c671f6d777f0.jpg?1562230162
+mana_cost: "{2}{B}{B}"
+cmc: 4.0
+type_line: Creature — Demon
+oracle_text: |-
+  Flying
+  At the beginning of each combat, any opponent may sacrifice a creature. If a player does, tap Desecration Demon and put a +1/+1 counter on it.
+power: '6'
+toughness: '6'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 20e10d8d-c2b0-4d3f-942d-28ae9e137c6e
+set: ddr
+set_name: 'Duel Decks: Nissa vs. Ob Nixilis'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/20e10d8d-c2b0-4d3f-942d-28ae9e137c6e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d0d6fabf-ffef-4272-8285-c671f6d777f0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aef75be00-1a88-47a1-a1ae-fe2c9881a798&unique=prints
+collector_number: '44'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jason Chan
+artist_ids:
+- 8062d5a9-51b6-4822-933f-fa9e9dba8416
+illustration_id: ad2e7974-3c8a-4e76-aa00-c6f309173374
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 6651
+penny_rank: 380
+prices:
+  usd: '0.70'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.50'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417467
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Desecration+Demon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Desecration+Demon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Desecration+Demon
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/122223?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Desecration+Demon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Desecration+Demon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

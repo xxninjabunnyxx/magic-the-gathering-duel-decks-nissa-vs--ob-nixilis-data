@@ -1,0 +1,112 @@
+---
+object: card
+id: 9f1fb659-70fe-4d8a-ba2c-07ab0d75c218
+oracle_id: cabb0cf3-124a-4f5f-9ca7-2d45a72159ca
+multiverse_ids:
+- 417468
+tcgplayer_id: 122224
+cardmarket_id: 292420
+name: Despoiler of Souls
+lang: en
+released_at: '2016-09-02'
+uri: https://api.scryfall.com/cards/9f1fb659-70fe-4d8a-ba2c-07ab0d75c218
+scryfall_uri: https://scryfall.com/card/ddr/45/despoiler-of-souls?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/f/9f1fb659-70fe-4d8a-ba2c-07ab0d75c218.jpg?1562230137
+  normal: https://cards.scryfall.io/normal/front/9/f/9f1fb659-70fe-4d8a-ba2c-07ab0d75c218.jpg?1562230137
+  large: https://cards.scryfall.io/large/front/9/f/9f1fb659-70fe-4d8a-ba2c-07ab0d75c218.jpg?1562230137
+  png: https://cards.scryfall.io/png/front/9/f/9f1fb659-70fe-4d8a-ba2c-07ab0d75c218.png?1562230137
+  art_crop: https://cards.scryfall.io/art_crop/front/9/f/9f1fb659-70fe-4d8a-ba2c-07ab0d75c218.jpg?1562230137
+  border_crop: https://cards.scryfall.io/border_crop/front/9/f/9f1fb659-70fe-4d8a-ba2c-07ab0d75c218.jpg?1562230137
+mana_cost: "{B}{B}"
+cmc: 2.0
+type_line: Creature — Horror
+oracle_text: |-
+  Despoiler of Souls can't block.
+  {B}{B}, Exile two other creature cards from your graveyard: Return Despoiler of Souls from your graveyard to the battlefield.
+power: '3'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 20e10d8d-c2b0-4d3f-942d-28ae9e137c6e
+set: ddr
+set_name: 'Duel Decks: Nissa vs. Ob Nixilis'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/20e10d8d-c2b0-4d3f-942d-28ae9e137c6e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9f1fb659-70fe-4d8a-ba2c-07ab0d75c218/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acabb0cf3-124a-4f5f-9ca7-2d45a72159ca&unique=prints
+collector_number: '45'
+digital: false
+rarity: rare
+flavor_text: Rats and vultures devour. It desecrates.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Staples
+artist_ids:
+- 93d65564-bf00-447b-8406-e2031f03b6b1
+illustration_id: 9e57170a-af89-4955-adab-d64430cafea4
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 15873
+penny_rank: 5012
+prices:
+  usd: '0.12'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.09'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417468
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Despoiler+of+Souls&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Despoiler+of+Souls&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Despoiler+of+Souls
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/122224?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Despoiler+of+Souls&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Despoiler+of+Souls&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

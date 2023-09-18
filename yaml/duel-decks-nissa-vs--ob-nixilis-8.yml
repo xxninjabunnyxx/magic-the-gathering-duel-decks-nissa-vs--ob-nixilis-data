@@ -1,0 +1,110 @@
+---
+object: card
+id: c03fe1ac-ae2a-4b86-b5cc-eb5e51f63c54
+oracle_id: c6a3a882-a127-4590-93d7-679ef4313efe
+multiverse_ids:
+- 417431
+tcgplayer_id: 122227
+cardmarket_id: 292384
+name: Elvish Visionary
+lang: en
+released_at: '2016-09-02'
+uri: https://api.scryfall.com/cards/c03fe1ac-ae2a-4b86-b5cc-eb5e51f63c54
+scryfall_uri: https://scryfall.com/card/ddr/8/elvish-visionary?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/0/c03fe1ac-ae2a-4b86-b5cc-eb5e51f63c54.jpg?1562230154
+  normal: https://cards.scryfall.io/normal/front/c/0/c03fe1ac-ae2a-4b86-b5cc-eb5e51f63c54.jpg?1562230154
+  large: https://cards.scryfall.io/large/front/c/0/c03fe1ac-ae2a-4b86-b5cc-eb5e51f63c54.jpg?1562230154
+  png: https://cards.scryfall.io/png/front/c/0/c03fe1ac-ae2a-4b86-b5cc-eb5e51f63c54.png?1562230154
+  art_crop: https://cards.scryfall.io/art_crop/front/c/0/c03fe1ac-ae2a-4b86-b5cc-eb5e51f63c54.jpg?1562230154
+  border_crop: https://cards.scryfall.io/border_crop/front/c/0/c03fe1ac-ae2a-4b86-b5cc-eb5e51f63c54.jpg?1562230154
+mana_cost: "{1}{G}"
+cmc: 2.0
+type_line: Creature — Elf Shaman
+oracle_text: When Elvish Visionary enters the battlefield, draw a card.
+power: '1'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 20e10d8d-c2b0-4d3f-942d-28ae9e137c6e
+set: ddr
+set_name: 'Duel Decks: Nissa vs. Ob Nixilis'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/20e10d8d-c2b0-4d3f-942d-28ae9e137c6e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c03fe1ac-ae2a-4b86-b5cc-eb5e51f63c54/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac6a3a882-a127-4590-93d7-679ef4313efe&unique=prints
+collector_number: '8'
+digital: false
+rarity: common
+flavor_text: '"From a tiny sprout, the greatest trees grow and flourish. May the seeds
+  of your mind be equally fruitful."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: D. Alexander Gregory
+artist_ids:
+- 38433e15-f0f5-4223-a985-2d13c4aa0922
+illustration_id: 76858ea5-28bb-45c0-a116-409db21a2a92
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 1219
+penny_rank: 574
+prices:
+  usd: '0.08'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417431
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Elvish+Visionary&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Elvish+Visionary&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Elvish+Visionary
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/122227?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Elvish+Visionary&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Elvish+Visionary&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

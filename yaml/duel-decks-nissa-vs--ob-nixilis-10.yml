@@ -1,0 +1,109 @@
+---
+object: card
+id: a96596c1-459b-4306-ab31-4ca861c3475b
+oracle_id: bd5478df-3854-404b-8634-9debcef69b99
+multiverse_ids:
+- 417433
+tcgplayer_id: 122237
+cardmarket_id: 292386
+name: Gaea's Blessing
+lang: en
+released_at: '2016-09-02'
+uri: https://api.scryfall.com/cards/a96596c1-459b-4306-ab31-4ca861c3475b
+scryfall_uri: https://scryfall.com/card/ddr/10/gaeas-blessing?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/9/a96596c1-459b-4306-ab31-4ca861c3475b.jpg?1562230145
+  normal: https://cards.scryfall.io/normal/front/a/9/a96596c1-459b-4306-ab31-4ca861c3475b.jpg?1562230145
+  large: https://cards.scryfall.io/large/front/a/9/a96596c1-459b-4306-ab31-4ca861c3475b.jpg?1562230145
+  png: https://cards.scryfall.io/png/front/a/9/a96596c1-459b-4306-ab31-4ca861c3475b.png?1562230145
+  art_crop: https://cards.scryfall.io/art_crop/front/a/9/a96596c1-459b-4306-ab31-4ca861c3475b.jpg?1562230145
+  border_crop: https://cards.scryfall.io/border_crop/front/a/9/a96596c1-459b-4306-ab31-4ca861c3475b.jpg?1562230145
+mana_cost: "{1}{G}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: |-
+  Target player shuffles up to three target cards from their graveyard into their library.
+  Draw a card.
+  When Gaea's Blessing is put into your graveyard from your library, shuffle your graveyard into your library.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 20e10d8d-c2b0-4d3f-942d-28ae9e137c6e
+set: ddr
+set_name: 'Duel Decks: Nissa vs. Ob Nixilis'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/20e10d8d-c2b0-4d3f-942d-28ae9e137c6e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Addr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ddr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a96596c1-459b-4306-ab31-4ca861c3475b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abd5478df-3854-404b-8634-9debcef69b99&unique=prints
+collector_number: '10'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Rebecca Guay
+artist_ids:
+- f8f662fa-d597-46a3-afb2-91d6e13243e2
+illustration_id: 85c1dafe-fafe-4801-b029-940bd7521395
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 3997
+penny_rank: 4183
+prices:
+  usd: '0.31'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417433
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Gaea%27s+Blessing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Gaea%27s+Blessing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Gaea%27s+Blessing
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/122237?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gaea%27s+Blessing&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Gaea%27s+Blessing&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
